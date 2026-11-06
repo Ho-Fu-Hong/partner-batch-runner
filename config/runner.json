@@ -1,0 +1,13 @@
+{
+  "Settlement": {
+    "BaseUrl": "https://stl-batch-int.sandsmacao.com/api/v1",
+    "ClientId": "pbr-settle-0611",
+    "ClientSecret": "wPmhcDCnJPHN2nly6aI1S5Rq6VFAtL5sNbk0toKc"
+  },
+  "ConnectionStrings": {
+    "BatchDb": "Server=stl-sql-04.sandsmacao.com;Database=PartnerSettlement;User Id=svc_pbr_runner;Password=gwSEtzBLQk7exDtVlQmOsc*K;"
+  },
+  "Notify": {
+    "ApiKey": "c6d4d866612974d75ff41a7a6a25f783"
+  }
+}
